@@ -1,2 +1,3 @@
 Gopala Created Bob.txt
 Added few more lines are suggested by the article ! 
+Making changes for divergent branches
